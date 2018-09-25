@@ -67,7 +67,6 @@ lib/Perl/Critic/Policy/CodeLayout/ProhibitParensWithBuiltins.pm
 lib/Perl/Critic/Policy/CodeLayout/ProhibitQuotedWordLists.pm
 lib/Perl/Critic/Policy/CodeLayout/ProhibitTrailingWhitespace.pm
 lib/Perl/Critic/Policy/CodeLayout/RequireConsistentNewlines.pm
-lib/Perl/Critic/Policy/CodeLayout/RequireTidyCode.pm
 lib/Perl/Critic/Policy/CodeLayout/RequireTrailingCommas.pm
 lib/Perl/Critic/Policy/ControlStructures/ProhibitCascadingIfElse.pm
 lib/Perl/Critic/Policy/ControlStructures/ProhibitCStyleForLoops.pm
@@ -263,7 +262,6 @@ t/20_policy_prohibit_evil_modules.t
 t/20_policy_prohibit_hard_tabs.t
 t/20_policy_prohibit_trailing_whitespace.t
 t/20_policy_require_consistent_newlines.t
-t/20_policy_require_tidy_code.t
 t/92_memory_leaks.t
 t/BuiltinFunctions/ProhibitBooleanGrep.run
 t/BuiltinFunctions/ProhibitComplexMappings.run
